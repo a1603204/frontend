@@ -1,0 +1,12 @@
+table {
+    text-align: left;
+    width: 95%;
+}
+
+td {
+     border-bottom: 2px solid lightgrey;
+}
+
+th {
+    background-color: skyblue;
+}

@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    text-transform: capitalize;   
+}
+
+ul {
+    color: darkblue;
+}
+
+#sec {
+    font-family: "Roboto", 12 px;
+    margin-left: 5%;
+}
+
+div {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: darkblue;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/circles-light.png")
+}
